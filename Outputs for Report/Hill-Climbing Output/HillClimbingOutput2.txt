@@ -1,0 +1,180 @@
+
+Solution: (0,0) (1,2) (5,1) (5,4) (6,6) (6,7) (7,3) (7,5) 
+# pairs of queens attacking each other: 7
+
+Solution: (0,0) (1,2) (4,1) (5,4) (6,6) (6,7) (7,3) (7,5) 
+# pairs of queens attacking each other: 5
+
+Solution: (0,0) (1,2) (4,1) (5,4) (6,6) (6,7) (7,3) (7,5) 
+# pairs of queens attacking each other: 5
+
+
+Solution: (0,0) (1,2) (4,1) (5,4) (6,6) (6,7) (7,3) (7,5) 
+# pairs of queens attacking each other: 5
+
+
+Solution: (0,0) (1,2) (4,1) (5,4) (6,6) (6,7) (7,3) (7,5) 
+# pairs of queens attacking each other: 5
+
+
+Solution: (0,0) (1,2) (2,5) (4,1) (5,4) (6,6) (6,7) (7,3) 
+# pairs of queens attacking each other: 3
+
+Solution: (0,0) (0,6) (1,2) (2,5) (4,1) (5,4) (6,7) (7,3) 
+# pairs of queens attacking each other: 2
+
+Solution: (0,0) (0,6) (1,2) (2,5) (4,1) (5,4) (6,7) (7,3) 
+# pairs of queens attacking each other: 2
+
+Done in 0 restarts.
+Run Time: 0.016 seconds
+Queens: 8
+Solution: (2,1) (2,2) (2,5) (2,7) (4,3) (5,0) (6,4) (6,6) 
+# pairs of queens attacking each other: 7
+
+Solution: (0,1) (2,2) (2,5) (2,7) (4,3) (5,0) (6,4) (6,6) 
+# pairs of queens attacking each other: 5
+
+Solution: (0,1) (0,2) (2,5) (2,7) (4,3) (5,0) (6,4) (6,6) 
+# pairs of queens attacking each other: 4
+
+Solution: (0,1) (0,2) (2,5) (2,7) (4,3) (5,0) (6,4) (6,6) 
+# pairs of queens attacking each other: 4
+
+
+Solution: (0,1) (0,2) (2,5) (2,7) (4,3) (5,0) (6,6) (7,4) 
+# pairs of queens attacking each other: 3
+
+Solution: (0,1) (0,2) (1,5) (2,7) (4,3) (5,0) (6,6) (7,4) 
+# pairs of queens attacking each other: 1
+
+Solution: (0,1) (0,2) (1,5) (2,7) (4,3) (5,0) (6,6) (7,4) 
+# pairs of queens attacking each other: 1
+
+
+Solution: (0,1) (0,2) (1,5) (2,7) (4,3) (5,0) (6,6) (7,4) 
+# pairs of queens attacking each other: 1
+
+Done in 1 restarts.
+Run Time: 0.047 seconds
+Queens: 8
+Solution: (1,1) (1,2) (4,4) (5,0) (6,3) (7,5) (7,6) (7,7) 
+# pairs of queens attacking each other: 5
+
+Solution: (0,1) (1,2) (4,4) (5,0) (6,3) (7,5) (7,6) (7,7) 
+# pairs of queens attacking each other: 4
+
+Solution: (0,1) (1,2) (4,4) (5,0) (6,3) (7,5) (7,6) (7,7) 
+# pairs of queens attacking each other: 4
+
+
+Solution: (0,1) (1,2) (4,4) (5,0) (6,3) (7,5) (7,6) (7,7) 
+# pairs of queens attacking each other: 4
+
+
+Solution: (0,1) (1,2) (2,4) (5,0) (6,3) (7,5) (7,6) (7,7) 
+# pairs of queens attacking each other: 3
+
+Solution: (0,1) (1,2) (2,4) (5,0) (6,3) (7,5) (7,6) (7,7) 
+# pairs of queens attacking each other: 3
+
+
+Solution: (0,1) (1,2) (2,4) (5,0) (6,3) (7,5) (7,6) (7,7) 
+# pairs of queens attacking each other: 3
+
+
+Solution: (0,1) (1,2) (2,4) (3,7) (5,0) (6,3) (7,5) (7,6) 
+# pairs of queens attacking each other: 2
+Done in 2 restarts.
+Run Time: 0.078 seconds
+Queens: 8
+Solution: (0,1) (2,3) (2,4) (2,6) (3,2) (4,0) (6,7) (7,5) 
+# pairs of queens attacking each other: 5
+
+Solution: (1,1) (2,3) (2,4) (2,6) (3,2) (4,0) (6,7) (7,5) 
+# pairs of queens attacking each other: 4
+
+Solution: (1,1) (2,3) (2,4) (2,6) (4,0) (5,2) (6,7) (7,5) 
+# pairs of queens attacking each other: 3
+
+Solution: (0,3) (1,1) (2,4) (2,6) (4,0) (5,2) (6,7) (7,5) 
+# pairs of queens attacking each other: 1
+
+Solution: (0,3) (1,1) (2,4) (2,6) (4,0) (5,2) (6,7) (7,5) 
+# pairs of queens attacking each other: 1
+
+
+Solution: (0,3) (1,1) (2,4) (2,6) (4,0) (5,2) (6,7) (7,5) 
+# pairs of queens attacking each other: 1
+
+
+Solution: (0,3) (1,1) (2,4) (2,6) (4,0) (5,2) (6,7) (7,5) 
+# pairs of queens attacking each other: 1
+
+
+Solution: (0,3) (1,1) (2,4) (2,6) (4,0) (5,2) (6,7) (7,5) 
+# pairs of queens attacking each other: 1
+
+Done in 3 restarts.
+Run Time: 0.094 seconds
+Queens: 8
+Solution: (0,0) (1,4) (2,3) (4,7) (5,1) (5,2) (5,5) (7,6) 
+# pairs of queens attacking each other: 5
+
+Solution: (0,0) (1,4) (2,3) (3,1) (4,7) (5,2) (5,5) (7,6) 
+# pairs of queens attacking each other: 4
+
+Solution: (0,0) (1,4) (2,3) (3,1) (4,7) (5,5) (6,2) (7,6) 
+# pairs of queens attacking each other: 3
+
+Solution: (0,0) (1,4) (2,3) (3,1) (4,7) (5,5) (6,2) (7,6) 
+# pairs of queens attacking each other: 3
+
+
+Solution: (0,0) (2,3) (2,4) (3,1) (4,7) (5,5) (6,2) (7,6) 
+# pairs of queens attacking each other: 2
+
+Solution: (0,0) (2,3) (2,4) (3,1) (4,7) (5,5) (6,2) (7,6) 
+# pairs of queens attacking each other: 2
+
+
+Solution: (0,0) (2,3) (2,4) (3,1) (4,7) (5,5) (6,2) (7,6) 
+# pairs of queens attacking each other: 2
+
+
+Solution: (0,0) (2,3) (2,4) (3,1) (4,7) (5,5) (6,2) (7,6) 
+# pairs of queens attacking each other: 2
+
+Done in 4 restarts.
+Run Time: 0.11 seconds
+Queens: 8
+Solution: (1,1) (2,3) (2,5) (3,2) (3,6) (4,4) (4,7) (6,0) 
+# pairs of queens attacking each other: 7
+
+Solution: (1,1) (2,3) (2,5) (3,2) (3,6) (4,4) (4,7) (6,0) 
+# pairs of queens attacking each other: 7
+
+
+Solution: (0,2) (1,1) (2,3) (2,5) (3,6) (4,4) (4,7) (6,0) 
+# pairs of queens attacking each other: 6
+
+Solution: (0,2) (1,1) (2,5) (3,6) (4,4) (4,7) (6,0) (7,3) 
+# pairs of queens attacking each other: 5
+
+Solution: (0,2) (0,4) (1,1) (2,5) (3,6) (4,7) (6,0) (7,3) 
+# pairs of queens attacking each other: 4
+
+Solution: (0,2) (0,4) (1,1) (2,5) (3,6) (4,7) (6,0) (7,3) 
+# pairs of queens attacking each other: 4
+
+
+Solution: (0,2) (0,4) (1,1) (2,5) (3,6) (4,7) (6,0) (7,3) 
+# pairs of queens attacking each other: 4
+
+
+Solution: (0,2) (0,4) (1,1) (2,5) (3,6) (4,7) (6,0) (7,3) 
+# pairs of queens attacking each other: 4
+
+Done in 5 restarts.
+Run Time: 0.125 seconds
+Queens: 8

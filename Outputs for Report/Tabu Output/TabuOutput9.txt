@@ -1,0 +1,5 @@
+Queens: 8
+Number of Iterations : 300
+Final Solution : [0, 3, 7, 4, 1, 6, 2, 5]
+Cost : 1
+Run Time : 0.016 seconds

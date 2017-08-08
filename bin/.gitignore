@@ -1,0 +1,10 @@
+/app/
+/brute_force/
+/genetic_algorithm/
+/hill_climbing/
+/hybrid_ga_tabu/
+/hybrid_ica_tabu/
+/imperialist_competitive_algorithm/
+/particle_swarm_optimization/
+/simulated_annealing/
+/tabu_search/

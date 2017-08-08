@@ -1,0 +1,5 @@
+Queens: 8
+Iteration: 104
+Solution: (0,3) (1,1) (2,6) (3,2) (4,5) (5,7) (6,4) (7,0) 
+Total Cost of 0
+Run Time :0.328 seconds

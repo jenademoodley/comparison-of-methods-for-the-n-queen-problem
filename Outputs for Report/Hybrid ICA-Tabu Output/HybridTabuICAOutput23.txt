@@ -1,0 +1,6 @@
+Queens: 25
+Best: 23 17 15 9 1 24 4 14 19 21 12 0 3 6 18 20 8 11 2 7 5 16 22 13 10 
+Fitness: 0
+Iterations on ICA: 182
+Iterations on Tabu: 0
+Run Time: 0.97 seconds

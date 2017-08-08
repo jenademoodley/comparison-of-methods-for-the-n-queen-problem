@@ -1,0 +1,5 @@
+Queens: 10
+Best: 7 4 1 8 2 9 6 3 5 0 
+Fitness: 0
+Iterations: 9
+Run Time: 0.031 seconds

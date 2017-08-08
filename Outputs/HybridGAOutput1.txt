@@ -1,0 +1,6 @@
+Queens: 8
+Best: 2 0 6 4 7 1 3 5 
+Fitness: 0
+Generations on GA: 31
+Iterations on Tabu: 0
+Run Time: 0.038 seconds

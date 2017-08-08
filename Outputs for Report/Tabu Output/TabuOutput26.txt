@@ -1,0 +1,5 @@
+Queens: 25
+Number of Iterations : 300
+Final Solution : [9, 6, 8, 10, 17, 19, 5, 23, 18, 13, 4, 12, 20, 2, 14, 3, 0, 0, 16, 21, 11, 24, 7, 15, 1]
+Cost : 1
+Run Time : 0.016 seconds

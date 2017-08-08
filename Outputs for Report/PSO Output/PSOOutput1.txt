@@ -1,0 +1,10 @@
+Queens: 8
+Epochs: 1
+
+Best Solution(s): 
+(0,2) (1,4) (2,1) (3,7) (4,0) (5,6) (6,3) (7,5)
+Conflicts: 0
+(0,2) (1,6) (2,1) (3,7) (4,5) (5,3) (6,0) (7,4)
+Conflicts: 0
+
+Run Time: 0.001 seconds

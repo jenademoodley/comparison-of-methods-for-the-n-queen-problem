@@ -1,0 +1,5 @@
+Queens: 25
+Best: 11 2 14 9 1 10 24 6 15 19 4 13 20 22 7 18 3 12 8 23 0 17 5 21 16 
+Fitness: 0
+Generations: 455
+Run Time: 1.557 seconds
